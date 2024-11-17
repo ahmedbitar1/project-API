@@ -1,0 +1,12 @@
+C:\Users\mohme\source\repos\visualStudio\web-api-project-development\Project.Core\bin\Debug\net8.0\Project.Core.deps.json
+C:\Users\mohme\source\repos\visualStudio\web-api-project-development\Project.Core\bin\Debug\net8.0\Project.Core.dll
+C:\Users\mohme\source\repos\visualStudio\web-api-project-development\Project.Core\bin\Debug\net8.0\Project.Core.pdb
+C:\Users\mohme\source\repos\visualStudio\web-api-project-development\Project.Core\obj\Debug\net8.0\Project.Core.csproj.AssemblyReference.cache
+C:\Users\mohme\source\repos\visualStudio\web-api-project-development\Project.Core\obj\Debug\net8.0\Project.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohme\source\repos\visualStudio\web-api-project-development\Project.Core\obj\Debug\net8.0\Project.Core.AssemblyInfoInputs.cache
+C:\Users\mohme\source\repos\visualStudio\web-api-project-development\Project.Core\obj\Debug\net8.0\Project.Core.AssemblyInfo.cs
+C:\Users\mohme\source\repos\visualStudio\web-api-project-development\Project.Core\obj\Debug\net8.0\Project.Core.csproj.CoreCompileInputs.cache
+C:\Users\mohme\source\repos\visualStudio\web-api-project-development\Project.Core\obj\Debug\net8.0\Project.Core.dll
+C:\Users\mohme\source\repos\visualStudio\web-api-project-development\Project.Core\obj\Debug\net8.0\refint\Project.Core.dll
+C:\Users\mohme\source\repos\visualStudio\web-api-project-development\Project.Core\obj\Debug\net8.0\Project.Core.pdb
+C:\Users\mohme\source\repos\visualStudio\web-api-project-development\Project.Core\obj\Debug\net8.0\ref\Project.Core.dll

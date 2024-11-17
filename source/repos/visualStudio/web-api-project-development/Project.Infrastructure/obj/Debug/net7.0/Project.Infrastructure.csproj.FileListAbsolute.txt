@@ -1,0 +1,17 @@
+C:\Users\mohme\source\repos\visualStudio\web-api-project-development\Project.Infrastructure\bin\Debug\net7.0\Project.Infrastructure.deps.json
+C:\Users\mohme\source\repos\visualStudio\web-api-project-development\Project.Infrastructure\bin\Debug\net7.0\Project.Infrastructure.runtimeconfig.json
+C:\Users\mohme\source\repos\visualStudio\web-api-project-development\Project.Infrastructure\bin\Debug\net7.0\Project.Infrastructure.dll
+C:\Users\mohme\source\repos\visualStudio\web-api-project-development\Project.Infrastructure\bin\Debug\net7.0\Project.Infrastructure.pdb
+C:\Users\mohme\source\repos\visualStudio\web-api-project-development\Project.Infrastructure\bin\Debug\net7.0\Project.Core.dll
+C:\Users\mohme\source\repos\visualStudio\web-api-project-development\Project.Infrastructure\bin\Debug\net7.0\Project.Core.pdb
+C:\Users\mohme\source\repos\visualStudio\web-api-project-development\Project.Infrastructure\obj\Debug\net7.0\Project.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\mohme\source\repos\visualStudio\web-api-project-development\Project.Infrastructure\obj\Debug\net7.0\Project.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohme\source\repos\visualStudio\web-api-project-development\Project.Infrastructure\obj\Debug\net7.0\Project.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\mohme\source\repos\visualStudio\web-api-project-development\Project.Infrastructure\obj\Debug\net7.0\Project.Infrastructure.AssemblyInfo.cs
+C:\Users\mohme\source\repos\visualStudio\web-api-project-development\Project.Infrastructure\obj\Debug\net7.0\Project.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\mohme\source\repos\visualStudio\web-api-project-development\Project.Infrastructure\obj\Debug\net7.0\Project..A2F26F6C.Up2Date
+C:\Users\mohme\source\repos\visualStudio\web-api-project-development\Project.Infrastructure\obj\Debug\net7.0\Project.Infrastructure.dll
+C:\Users\mohme\source\repos\visualStudio\web-api-project-development\Project.Infrastructure\obj\Debug\net7.0\refint\Project.Infrastructure.dll
+C:\Users\mohme\source\repos\visualStudio\web-api-project-development\Project.Infrastructure\obj\Debug\net7.0\Project.Infrastructure.pdb
+C:\Users\mohme\source\repos\visualStudio\web-api-project-development\Project.Infrastructure\obj\Debug\net7.0\Project.Infrastructure.genruntimeconfig.cache
+C:\Users\mohme\source\repos\visualStudio\web-api-project-development\Project.Infrastructure\obj\Debug\net7.0\ref\Project.Infrastructure.dll
